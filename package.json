@@ -21,7 +21,7 @@
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4",
-    "angularlibrary": "../angularlibrary/dist/sample"
+    "angularlibrary": "../sample-library/dist/sample"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.1.0",
